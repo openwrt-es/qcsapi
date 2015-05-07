@@ -1,0 +1,5 @@
+build
+libqcsapi_client.so*
+qcsapi_sockraw
+qcsapi_sockrpc
+*.patch
